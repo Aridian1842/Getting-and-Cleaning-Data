@@ -16,7 +16,7 @@ subject_train.txt
 #Cleanning Code
 
 The next code can be run in any computer through the R software 3.1.1, adjusts in 
-source files will be needed. Have great coding!
+source files will be needed. The Script file "run_analysis.R" has this same code. Have great coding!
 
 ##Step 1  Putting together all the test data
          feat<-read.table("C:/Users/inidicadores/Google Drive/RICARDO/COURSERA/Getting and Cleaning Data/Course Project/UCI HAR Dataset/features.txt",sep=" ")
